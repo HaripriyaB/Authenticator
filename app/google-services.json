@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497233606390",
+    "firebase_url": "https://stirringmindslogintask.firebaseio.com",
+    "project_id": "stirringmindslogintask",
+    "storage_bucket": "stirringmindslogintask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497233606390:android:25db882504170bb8131ed7",
+        "android_client_info": {
+          "package_name": "com.example.stirringmindslogintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497233606390-resj2jk0esosovcm5lqmjd37f7tofpk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRniYiz95LUqPNmqWYZ-6WhL1YfAvHaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497233606390-resj2jk0esosovcm5lqmjd37f7tofpk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
